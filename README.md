@@ -2,6 +2,8 @@
 
 Lister les livres correspondant à certains critères de sélection.
 
+![Capture de l'application](capture.png)
+
 ## Fonctionnalités
 
 - Filtres dans la barre latérale : note minimale, fourchette de prix, recherche dans les titres
